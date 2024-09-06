@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolassaraivaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="165" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolassaraivaa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2&custom_title=Linguagens%20e%20Tecnologias" height="165" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=nicolassaraivaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=pt-br&hide_border=false&order=1&custom_title=Status" height="150" alt="stats graph"  />
 </div>
 
@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/nicolassaraivaa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:nicolas.saraivaa@gmail.com" target="_blank">
+  <a href="nicolas.saraivaa@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/nicolas_saraivaa?igsh=MnI5bm1tNjBtbjRl&utm_source=qr" target="_blank">
