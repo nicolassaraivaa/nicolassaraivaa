@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolassaraivaa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2&custom_title=Linguagens%20e%20Tecnologias" height="165" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -59,6 +53,12 @@
 ###
 
 <p align="left">• 📝 Atualmente cursando uma formação Full Stack.</p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolassaraivaa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2&custom_title=Linguagens%20e%20Tecnologias" height="165" alt="languages graph"  />
+</div>
 
 ###
 
