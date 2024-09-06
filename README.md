@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolassaraivaa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2&custom_title=Linguagens%20e%20Tecnologias" height="165" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolassaraivaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1&custom_title=Status" height="150" alt="stats graph"  />
 </div>
 
 ###
