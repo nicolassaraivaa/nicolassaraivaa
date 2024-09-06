@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolassaraivaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="165" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolassaraivaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1&custom_title=Status" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolassaraivaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="165" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolassaraivaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=pt-br&hide_border=false&order=1&custom_title=Status" height="150" alt="stats graph"  />
 </div>
 
 ###
@@ -47,12 +47,6 @@
   <a href="https://nicolassaraiva.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
-</div>
-
-###
-
-<div align="right">
-  <img height="200" src="https://nicolassaraiva.vercel.app/assets/myphoto-BbqD9x98.jpeg"  />
 </div>
 
 ###
