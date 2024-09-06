@@ -1,6 +1,6 @@
 ### Olá, sou o Nicolas Saraiva 👋
 
-💻 Desenvolvedor Front-end Júnior com o objetivo de aprender novas tecnologias, aprimorar habilidades de programação e contribuir para projetos inovadores.
+💻 Desenvolvedor Front-end com o objetivo de aprender novas tecnologias, aprimorar habilidades de programação e contribuir para projetos inovadores.
 
 • 💡 Estudante de Ciência da Computação 4/8, em busca de conhecimento constante. </br>
 • 📝 Atualmente cursando uma formação Full Stack.
