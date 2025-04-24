@@ -48,11 +48,14 @@
 
 ###
 
-<p align="left">• 💡 Estudante de Ciência da Computação 4/8, em busca de conhecimento constante.</p>
+<p align="left">• 💡 Estudante de Ciência da Computação 5/8, em busca de conhecimento constante.</p>
 
 ###
 
-<p align="left">• 📝 Atualmente cursando uma formação Full Stack.</p>
+<p align="left">• 📝 Atualmente cursando uma formação Full Stack (DevClub).</p>
+
+<p align="left">• 📝 Atualmente cursando formações em Node.JS, TypeScript (Alura).</p>
+
 
 ###
 
