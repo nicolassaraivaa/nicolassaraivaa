@@ -52,9 +52,9 @@
 
 ###
 
-<p align="left">• 📝 Atualmente cursando uma formação Full Stack (DevClub).</p>
+<p align="left">• 📝  cursando uma formação Full Stack (DevClub).</p>
 
-<p align="left">• 📝 Atualmente cursando formações em Node.JS, TypeScript (Alura).</p>
+<p align="left">• 📝  cursando formações em Node.JS, TypeScript (Alura).</p>
 
 
 ###
