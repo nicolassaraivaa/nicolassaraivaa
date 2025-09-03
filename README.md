@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">• 💡 Estudante de Ciência da Computação 5/8, em busca de conhecimento constante.</p>
+<p align="left">• 💡 Estudante de Ciência da Computação 6/8, em busca de conhecimento constante.</p>
 
 ###
 
